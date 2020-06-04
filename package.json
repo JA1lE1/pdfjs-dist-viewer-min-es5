@@ -1,0 +1,25 @@
+{
+  "name": "pdfjs-dist-viewer-min-es5",
+  "version": "2.6.4",
+  "description": "Generic minified ES5 build of Mozilla's PDF.js library including the viewer component.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/core-process/pdfjs-dist-viewer-min-es5.git"
+  },
+  "keywords": [
+    "PDF.js",
+    "pdf",
+    "pdf.js",
+    "pdfjs",
+    "Mozilla",
+    "pdfjs-dist",
+    "viewer",
+    "ES5"
+  ],
+  "author": "Mozilla",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mozilla/pdf.js/issues"
+  },
+  "homepage": "http://mozilla.github.io/pdf.js/"
+}

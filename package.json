@@ -4,7 +4,7 @@
   "description": "Generic minified ES5 build of Mozilla's PDF.js library including the viewer component.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/core-process/pdfjs-dist-viewer-min-es5.git"
+    "url": "git+https://github.com/coreprocess/pdfjs-dist-viewer-min-es5.git"
   },
   "keywords": [
     "PDF.js",
